@@ -1,6 +1,8 @@
 function backup_folder(folder1,folder2)
 %% back up a folder
 
+% By Changjie Guan, TU/e, July 18,2016.
+
 files1=dir(folder1);
 files2=dir(folder2);
 
